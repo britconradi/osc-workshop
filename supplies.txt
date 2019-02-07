@@ -1,4 +1,6 @@
 CTD
 plankton net
 niskin bottles
+nets
+oxygen tanks
 
